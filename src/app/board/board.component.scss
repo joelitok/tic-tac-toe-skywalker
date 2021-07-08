@@ -1,0 +1,25 @@
+main{
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-gap:0px;
+    background-color: aqua;
+    
+}
+
+app-square{
+    border: 1px gray solid;
+    height: 100px;
+}
+.gri{
+    justify-content: center;
+    margin: auto 40%;
+   // background-color: aqua;
+}
+
+table{
+    background-color: aqua;
+    justify-content: center;
+}
+
+
+
